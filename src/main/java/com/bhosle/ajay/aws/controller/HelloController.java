@@ -10,7 +10,7 @@ public class HelloController {
 	
 	@GetMapping("/hello")
 	public String displayMessage() {		
-		return "Hello, this is version 1.0";
+		return "Hello, this is version 2.0";
 	}
 
 }
